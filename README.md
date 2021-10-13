@@ -5,8 +5,3 @@
 - sites made: 3
 - Java games made: 2
 - Python tools made: 1
-
-The Demo Version of Yousef The Ripper is out now
-Full version coming soon
-
-
